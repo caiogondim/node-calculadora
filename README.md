@@ -3,3 +3,4 @@
 ## Alunos
 - Joao
 - Maria
+- [Ravan Scafi](https://github.com/rscafi)
