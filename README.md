@@ -15,3 +15,4 @@
 - Joao
 - Maria
 - [Ravan Scafi](https://github.com/rscafi)
+- [Fernando Parreira](http://github.com/fparreira/)
