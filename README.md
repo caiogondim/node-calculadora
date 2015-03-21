@@ -2,3 +2,4 @@
 
 ## Alunos
 - [Thiago Guimarães](http://github.com/thiagogsr/)
+- [Eder Ribeiro](http://github.com/ederribeiro)
