@@ -1,1 +1,5 @@
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem odio fugit, temporibus doloribus et voluptate earum quos in perferendis ab rem nisi blanditiis ad, cupiditate itaque nam, necessitatibus, unde. Tempora.
+# Exemplo do evento Front-end United pelo leokz
+
+## Alunos
+- Joao
+- Maria
