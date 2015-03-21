@@ -12,7 +12,5 @@
 - Gabriel Cano
 - yuri nascimento
 - [Renato Contaifer](http://github.com/renatocontaifer/)
-- Joao
-- Maria
 - [Ravan Scafi](https://github.com/rscafi)
 - [Fernando Parreira](http://github.com/fparreira/)
