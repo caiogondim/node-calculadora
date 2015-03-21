@@ -1,5 +1,4 @@
 # Exemplo do evento Front-end United pelo leokz
 
 ## Alunos
-- Joao
-- Maria
+- [Thiago Guimarães](http://github.com/thiagogsr/)
