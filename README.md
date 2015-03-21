@@ -2,3 +2,4 @@
 
 ## Alunos
 - [Thiago Guimarães](http://github.com/thiagogsr/)
+- [Giovanni Pires da Silva](http://github.com/giovannipds/)
