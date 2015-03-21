@@ -11,3 +11,4 @@
 - Cezinha Anjos
 - Gabriel Cano
 - yuri nascimento
+- [Renato Contaifer](http://github.com/renatocontaifer/)
