@@ -2,3 +2,4 @@
 
 ## Alunos
 - [Thiago Guimarães](http://github.com/thiagogsr/)
+- [Wagner Moschini](http://github.com/wagnermoschini/)
