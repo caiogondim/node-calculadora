@@ -3,3 +3,4 @@
 ## Alunos
 - Joao
 - Maria
+- Gabriel Cano
