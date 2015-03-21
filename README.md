@@ -8,3 +8,4 @@
 - [Eder Ribeiro](http://github.com/ederribeiro)
 - [Eric Andrade](http://github.com/ericAndrade/)
 - [Marcus Cruz](https://github.com/mcruz85)
+- Cezinha Anjos
