@@ -1,6 +1,9 @@
-var num1 = process.argv[2]
-var operator = process.argv[3]
-var num2 = process.argv[4]
+#!/usr/bin/env node
+
+var args = process.argv[2].split(' ')
+var num1 = args[0]
+var operator = args[1]
+var num2 = args[2]
 
 if (operator === '+') {
     console.log(Number(num1) + Number(num2));
