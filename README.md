@@ -18,3 +18,4 @@
 - [Ademílson F. Tonato](http://github.com/ftonato/)
 - [Vitor Talaia](https://github.com/vitortalaia)
 - [Felipe Porto](http://github.com/felipeporto)
+- [Diego Moreira Alves](https://github.com/diegomoreira92/)
