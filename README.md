@@ -17,3 +17,4 @@
 - [Rafael Barrelo](http://github.com/rafaelbarrelo/)
 - [Ademílson F. Tonato](http://github.com/ftonato/)
 - [Vitor Talaia](https://github.com/vitortalaia)
+- [Felipe Porto](http://github.com/felipeporto)
