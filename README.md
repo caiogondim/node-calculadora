@@ -14,3 +14,4 @@
 - [Renato Contaifer](http://github.com/renatocontaifer/)
 - [Ravan Scafi](https://github.com/rscafi)
 - [Fernando Parreira](http://github.com/fparreira/)
+- [Rafael Barrelo](http://github.com/rafaelbarrelo/)
