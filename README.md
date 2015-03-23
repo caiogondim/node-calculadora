@@ -1,4 +1,37 @@
-# Exemplo do evento Front-end United pelo leokz
+# Calculadora em Node.js
+
+Projeto usado para ilustrar os passos iniciais com Git e GitHub, usado no evento
+[Front-end United por LeoKZ](http://frontendunited.io/leokzw/).
+
+
+## Usando
+
+A calculadora efetua as seguintes operações.
+
+### Soma
+```bash
+$ ./calculadora.js '2 + 2'
+=> 4
+```
+
+### Subtração
+```bash
+$ ./calculadora.js '2 - 2'
+=> 4
+```
+
+### Multiplicação
+```bash
+$ ./calculadora.js '2 * 2'
+=> 4
+```
+
+### Divisão
+```bash
+$ ./calculadora.js '2 / 2'
+=> 4
+```
+
 
 ## Alunos
 - [Filipe Linhares](http://github.com/filipelinhares)
@@ -8,9 +41,9 @@
 - [Eder Ribeiro](http://github.com/ederribeiro)
 - [Eric Andrade](http://github.com/ericAndrade/)
 - [Marcus Cruz](https://github.com/mcruz85)
-- Cezinha Anjos
-- Gabriel Cano
-- yuri nascimento
+- [Cezinha Anjos](https://github.com/cesarjr)
+- [Gabriel Cano](https://github.com/killuawax)
+- [Yuri Nascimento](https://github.com/yurirnascimento)
 - [Renato Contaifer](http://github.com/renatocontaifer/)
 - [Ravan Scafi](https://github.com/rscafi)
 - [Fernando Parreira](http://github.com/fparreira/)
