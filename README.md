@@ -10,26 +10,26 @@ A calculadora efetua as seguintes operações.
 
 ### Soma
 ```bash
-$ ./calculadora.js '2 + 2'
-=> 4
+$ ./calculadora.js '2 + 3'
+# => 5
 ```
 
 ### Subtração
 ```bash
-$ ./calculadora.js '2 - 2'
-=> 4
+$ ./calculadora.js '2 - 3'
+# => -1
 ```
 
 ### Multiplicação
 ```bash
-$ ./calculadora.js '2 * 2'
-=> 4
+$ ./calculadora.js '2 * 3'
+# => 6
 ```
 
 ### Divisão
 ```bash
-$ ./calculadora.js '2 / 2'
-=> 4
+$ ./calculadora.js '6 / 3'
+# => 2
 ```
 
 
