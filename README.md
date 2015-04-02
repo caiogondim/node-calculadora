@@ -56,3 +56,4 @@ $ ./calculadora.js '6 / 3'
 - [Herminio Torres](https://github.com/herminiotorres)
 - [Bruno Duarte Brito](https://github.com/brunodb3)
 - [Ronan Reis](https://github.com/ronanreis)
+- [Fábio de Carvalho](https://github.com/CallMeFabio)
