@@ -58,3 +58,5 @@ $ ./calculadora.js '6 / 3'
 - [Ronan Reis](https://github.com/ronanreis)
 - [Fábio de Carvalho](https://github.com/CallMeFabio)
 - [Jonas Mendes](https://github.com/Nipher)
+- [André Betiolo](https://github.com/andrebetiolo)
+
