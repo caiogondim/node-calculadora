@@ -60,3 +60,4 @@ $ ./calculadora.js '6 / 3'
 - [Jonas Mendes](https://github.com/Nipher)
 - [André Betiolo](https://github.com/andrebetiolo)
 - [Dayany Espindola](https://github.com/dayanyrec)
+- [Renie Siqueira](https://github.com/renie)
