@@ -61,3 +61,4 @@ $ ./calculadora.js '6 / 3'
 - [André Betiolo](https://github.com/andrebetiolo)
 - [Dayany Espindola](https://github.com/dayanyrec)
 - [Renie Siqueira](https://github.com/renie)
+- [Marcus Amendola](https://github.com/marcus-amendola)
